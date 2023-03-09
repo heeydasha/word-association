@@ -1,1 +1,1 @@
-# word-association-game from Ania Kubow's youtube tutorial 
+# word-association-game
